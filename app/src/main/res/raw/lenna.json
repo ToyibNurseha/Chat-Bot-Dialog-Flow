@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lenna-agent-eada",
+  "private_key_id": "3bb76ee80f0b781ed81604463edd1ebd08a50240",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwbmJQn/GUzMig\nw2Man53QMOwaa34exrjt7ygqehj3BXX5/SJA7N5StXfJhmUiwt2Dy5mRA2EzVuLA\nUFQAfNhExP53yhEhTu2q2UYvKQfSTvIpGaL7E3xYjHhXgePffSpDkbv9ClvJUrQH\njUME97tgR5sbBHaOjf830OZmGCEXlDzgY5LOuv/5xrUmZS+dT0547JE1kZ8EvnEH\nNgO+XSBDw/zT3OyX0v4DsqG/xg5ZdqklMU4bT8vANR9Ik83C29PYJ+bK1cfBXWHi\ntllucfr0LpVzJCI7AxGUyaP06fjUKTD9+HQOBmbh3imzf5TkLyIh009axQ/XpTBQ\nFK5PsnlLAgMBAAECggEAPXePoBhBMb6wzTWVQvLGKADLWR8HFxDT3+1Y2IemR/Vq\nl1hGBUmg4T7gx2Cfvp8WTrLxwxBi3mCQakDyKyNTs43QPAq1sh2N9t5wscCBPZeM\njZ4lZoTw5ua1jIMv0S6JuXW+AVgJB1hdaV4hMctfSBlaY+zHoz28Y4VPp9UTPmOu\nO7gI/H7COquwSV8JOsAh+SQ3zKxY6TDG/W0El3UuxwPsDan4YtAIaXzZUXHLWnLE\nJaJlF7Y9o16MfMj1K5CTQNEr7s0YrcnK0xOC74k2hK/pfwDJwuljdpU+U8PyIol9\nl241LkDWMxkq/1OkPB8vA+CNCpseuUl18CDQmOMFeQKBgQDZjdTIKT7JBpC6WFGo\nQLNy4nnrM2dllIdhjYLuMvMUVhTjfJ2vddTl1CpU7wPknV8hLmldNu9c48hOtc0O\nqs7K73PLd1ekLlxowE5l2TNi/hil/Ohb4C3Yu/+Qh3Tvj4lTxzVbO7w6OYXDWbQA\nC/F6QUFw8jZ6iu9a3I5pRNch+QKBgQDPnCaidNPeRNGniDoaUiwCUodKY92MsAsb\nZxwc+n1EX50GOpVDUwSwtYZw52T2/eCkKdtyjZdleawotqOKf29Q/5JJzPEV5CPx\nQmbOx13Rk2F/SS4dk7c7KwWobjX/UrjmNmZjeNKb+NDiQt7dkxXpuaKU0O2xD9Oa\n32pjaHiGYwKBgQCBoCGdlf3D97Z6Ya9d6hdCJ7FvM/SysNothQzzcsYlYtkVZqXp\n6vKMcms6qiOOrzoEYkwDb30Vwt8SDv78c0e94QkEvbopqDoFbDgKNW2J2U7EcDne\nrGeE0ReIfT1uk/7GPVcMYj5YDvglmqhGstcR+hnM+3T8dRYC9JGiJZNtuQKBgBgz\nw+08YVaP/0DgiKV43tiGdm8dpT45Z5ISOxzFtsS5wLxxJ+VpUCqpfrq6vvJsNjvt\nBUAdcYDK5l74q6gBoyB2Kr+fvJsotWfyrbl9VFqSK9OC3HVmOv4Szd4Muw7Avf1Y\naic+do7oOrGlygVamDtfAK0Iji0OA0UStnxQOXyxAoGAXtQyrxosobwekAgi2bVS\nXjw66nZoLv12HVqBNeKwFjrpg4bMtepu7uhGb5kou4U4xIeGkvjm2SoIwZPfldU4\n7jJ/o4ACLEp2OXeO129GsP1K37dUv5bu4s+XNCsFCnG8FzLYXK4+L0wp8liE4rWz\niRGJX3UG7XKb830pZNGjDiI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lennachatbot@lenna-agent-eada.iam.gserviceaccount.com",
+  "client_id": "106485496146441477037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lennachatbot%40lenna-agent-eada.iam.gserviceaccount.com"
+}

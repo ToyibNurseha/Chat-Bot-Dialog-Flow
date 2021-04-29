@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "429319816980",
+    "project_id": "lenna-agent-eada",
+    "storage_bucket": "lenna-agent-eada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429319816980:android:2cf1a560f73f6ceb3ba401",
+        "android_client_info": {
+          "package_name": "com.toyibnurseha.lennadialogflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429319816980-a66d3gpl19i6g8k9915fkub9pbqcsmcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toyibnurseha.lennadialogflow",
+            "certificate_hash": "d168829ff79f40a1508f0e180d658800d7927ba3"
+          }
+        },
+        {
+          "client_id": "429319816980-qikqqb0pdsja3eu1uqiad79sgoqm2vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPTsU1agbwXUQ5mMbGx1viVsCh6m_UYBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429319816980-qikqqb0pdsja3eu1uqiad79sgoqm2vgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

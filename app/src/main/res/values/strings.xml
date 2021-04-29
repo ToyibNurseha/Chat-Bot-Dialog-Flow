@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lenna Dialog Flow</string>
+    <string name="start_chatting">Start Chatting</string>
+    <string name="enter_message">Enter message</string>
+    <string name="clear_chat">Clear chat</string>
+    <string name="bot_guidance">Bot Guidance</string>
+    <string name="empty_message">Pesan tidak boleh kosong</string>
+
+    <string-array name="suggestion_list">
+        <item>Hai</item>
+        <item>Buka jam berapa?</item>
+        <item>Buat appointment?</item>
+        <item>Kasih tau jam buka?</item>
+        <item>Buat perjanjian?</item>
+    </string-array>
+
+</resources>
